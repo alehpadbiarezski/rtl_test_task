@@ -1,0 +1,7 @@
+{
+  "StorageEndpoint": "<URI to cosmos DB>",
+  "StorageKey": "<Auth key to cosmos DB>",
+  "StorageDb": "<Db name>",
+  "StorageCollectionName": "<Collection name>",
+  "DegreeOfParallelism" :  "<is used to boost up grabbing data from TvMaze db. I recommend set it to 10>"
+}

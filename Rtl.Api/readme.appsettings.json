@@ -1,0 +1,21 @@
+﻿{
+  "Logging": {
+    "IncludeScopes": false,
+    "Debug": {
+      "LogLevel": {
+        "Default": "Warning"
+      }
+    },
+    "Console": {
+      "LogLevel": {
+        "Default": "Warning"
+      }
+    }
+  },
+  
+  "StorageEndpoint": "<URI to cosmos DB>",
+  "StorageKey": "<Auth key to cosmos DB>",
+  "StorageDb": "<Db name>",
+  "StorageCollectionName": "<Collection name>",
+  "PageSize": "100"
+}
